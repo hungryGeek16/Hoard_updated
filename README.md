@@ -161,6 +161,10 @@ Benchmarks
 The directory `benchmarks/` contains a number of benchmarks used to
 evaluate and tune Hoard.
 
+Original vs Updated(libhoard.cpp) outputs
+----------
+
+
 
 Technical Information
 ---------------------
