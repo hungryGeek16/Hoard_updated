@@ -164,7 +164,15 @@ evaluate and tune Hoard.
 Original vs Updated(libhoard.cpp) outputs
 ----------
 
+### Original:
 
+![original](src/original.png)
+
+### After the update:
+
+* Please clone the repository, make and execute the test.sh as it is to reproduce the results.
+
+![update](src/updated.png)
 
 Technical Information
 ---------------------
